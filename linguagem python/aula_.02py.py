@@ -20,3 +20,17 @@
 # tipo bool - logico
 True
 False
+
+
+# concatenacao
+# e juntar os dados:
+
+print('ola mundo' ,'nome')
+print('resultado da soma: ' , 2+2)
+print('resultado da divisao' , 2/2)
+print('o aluno passou de ano?' , True)
+print('altura:' , 1.71)
+print('R$' , 500.0)
+
+print('teste' , 2, 5.2, False)
+
