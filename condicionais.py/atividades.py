@@ -62,6 +62,10 @@ else:
 
 # atividade 7
 
-n2 = int(input('digite um numero:'))
-if n2 % 3 == 0 and n2 % 5 == 0:
+n = int(input('digite um numero:'))
+if n % 3 == 0 and n % 5 == 0:
+    print('é divisivel')
+else:
+    print('nao é divisivel')
+
 
