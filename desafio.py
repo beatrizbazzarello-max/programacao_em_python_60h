@@ -16,3 +16,4 @@ analisar('empresa1', empresa1)
 analisar('empresa2', empresa2)
 analisar('empresa3', empresa3)
 analisar('empresa4', empresa4)
+
